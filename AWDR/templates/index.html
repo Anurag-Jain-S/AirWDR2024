@@ -5,6 +5,50 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IPython Notebook Runner</title>
+    <style>
+        body {
+            background-color: #FF00FF; /* Magenta background */
+            color: #FFFFFF; /* White text */
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            margin: 0;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        input[type="file"] {
+            margin-bottom: 20px;
+            padding: 10px;
+            border: none;
+            background-color: #FFFFFF; /* White background for file input */
+            color: #000000; /* Black text */
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #4B0082; /* Indigo button color */
+            color: #FFFFFF; /* White text */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px;
+        }
+
+        button:hover {
+            background-color: #8A2BE2; /* Darker indigo on hover */
+        }
+    </style>
 </head>
 <body>
     <h1>Upload your IPython Notebook (.ipynb)</h1>

@@ -14,11 +14,6 @@ Initially `Training` is set to `True`, Changing it to false will use the trained
 
 
 
-### **Recognising the Alphabets:**
-
-![Screenshot (97)](https://user-images.githubusercontent.com/62256509/117626368-a8c9b680-b194-11eb-9694-a99feb3010a9.png)
-
-
 ### **Dataset Description:**
 
 #### **Link to Dataset** 

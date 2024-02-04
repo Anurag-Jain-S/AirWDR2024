@@ -12,15 +12,6 @@ If execution is done using Google Colab; Execute the detection.py with color_sel
 
 Initially `Training` is set to `True`, Changing it to false will use the trained model but initially you have to train the model.
 
-### **Detecting the Alphabets:**
-
-![Screenshot (95)](https://user-images.githubusercontent.com/62256509/117626260-89328e00-b194-11eb-8320-b5f25dc9cf84.png)
-
-
-### **The Output obtained:**
-
-![mediahandler](https://user-images.githubusercontent.com/62256509/117627675-09a5be80-b196-11eb-85df-f5e419bb4766.gif)
-
 
 
 ### **Recognising the Alphabets:**
